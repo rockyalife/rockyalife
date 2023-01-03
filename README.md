@@ -1,5 +1,5 @@
 
-<h2 align="center">A passionate and aspiring full-stack developer from Portugal</h2>
+<h2 align="center">A passionate full-stack developer from Portugal</h2>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rockyalife&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rockyalife&theme=github)
