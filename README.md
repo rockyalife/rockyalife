@@ -1,6 +1,8 @@
 
 <h2 align="center">A passionate full-stack developer from Portugal</h2>
 
+<h4 align="center">Contact me by: <a href="mailto:goncalofer.dev@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/goncalomferreira/">LinkedIn</a>!</h4> 
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rockyalife&theme=github)
 
 <h3 align="left">Languages and Tools:</h3>
